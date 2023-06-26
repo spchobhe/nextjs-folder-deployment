@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/nextjs-folder-deployment/favicon.ico" />
       </Head>
 
       <main>
@@ -56,7 +56,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+          <img src="/nextjs-folder-deployment/vercel.svg" alt="Vercel" className={styles.logo} />
         </a>
       </footer>
 
