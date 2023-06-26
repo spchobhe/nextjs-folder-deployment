@@ -4,6 +4,8 @@ const nextConfig = {
       distDir: 'docs',
        // Add basePath
       output: 'export',
+      // Add basePath
+      basePath: '/nextjs-folder-deployment',      
 }
 
 module.exports = nextConfig
